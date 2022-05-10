@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da R-borges98😁
+## Bem-vindo(a) ao perfil da Raquel Borges😁
 
  <div>
   <a href="https://github.com/R-borges98">
