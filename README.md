@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Para entrar em contato comigo e ver os  conteúdo sobre programação me segue na rede abaixo!
+  ### Para entrar em contato comigo e ver os conteúdos sobre programação me segue na rede abaixo!
  
 <div> 
 
