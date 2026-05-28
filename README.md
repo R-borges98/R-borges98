@@ -26,7 +26,7 @@ Sou desenvolvedora Full Stack em formação e analista de defesa cibernética, c
 ### 🤝 Conecte-se Comigo
 
 <div id="contato">
-  <a href="https://www.linkedin.com/in/raquel-borges-santos-a7457a268" target="_blank">
+  <a href="https://www.linkedin.com/in/raquel-borges-5a1333221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:borgesraquel189@gmail.com">
