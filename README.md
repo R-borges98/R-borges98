@@ -10,6 +10,7 @@ Sou desenvolvedora Full Stack em formação e analista de defesa cibernética, c
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badges"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badges"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badges"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badges"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badges"/>
 </div>
 
@@ -26,7 +27,7 @@ Sou desenvolvedora Full Stack em formação e analista de defesa cibernética, c
 ### 🤝 Conecte-se Comigo
 
 <div id="contato">
-  <a href="https://www.linkedin.com/in/raquel-borges-5a1333221/" target="_blank">
+  <a href="https://www.linkedin.com/in/raquel-borges-5a1333221" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:borgesraquel189@gmail.com">
