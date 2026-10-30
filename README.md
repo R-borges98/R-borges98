@@ -19,7 +19,7 @@ Sou desenvolvedora Full Stack em formação e analista de defesa cibernética, c
 ### 🎯 Sobre Mim
 
 - 🎓 Cursando *Formação Web Full Stack* (Foco atual em Front-End, HTML5 estruturado, CSS3 responsivo e lógica).
-- 🔐 Cursando *Tecnologia em Defesa Cibernética* (Foco em segurança defensiva e análise de vulnerabilidades).
+- :shield: Formada em Cibersegurança (EBAC) com foco em segurança defensiva e análise de vulnerabilidades.
 - ⚡ Foco em evolução contínua, código semântico e proteção de dados.
 
 ---
